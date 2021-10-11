@@ -1,0 +1,24 @@
+Kode Transaksi	Item
+#01	Teh Celup
+#01	Sirup
+#01	Pet Food
+#02	Teh Celup
+#02	Gula
+#03	Sirup
+#03	Pet Food
+#04	Teh Celup
+#04	Sirup
+#05	Teh Celup
+#05	Sirup
+#05	Gula
+#06	Teh Celup
+#06	Pet Food
+#07	Teh Celup
+#07	Sirup
+#07	Pet Food
+#08	Teh Celup
+#09	Teh Celup
+#09	Gula
+#10	Sirup
+#10	Pet Food
+#10	Gula
