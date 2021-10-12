@@ -1,0 +1,51 @@
+Customer_ID	Nama Pelanggan	Jenis Kelamin	Umur	Profesi	Tipe Residen	NilaiBelanjaSetahun
+CUST-001	Budi Anggara	Pria	58	Wiraswasta	Sector	9497927
+CUST-002	Shirley Ratuwati	Wanita	14	Pelajar	Cluster	2722700
+CUST-003	Agus Cahyono	Pria	48	Professional	Cluster	5286429
+CUST-004	Antonius Winarta	Pria	53	Professional	Cluster	5204498
+CUST-005	Ibu Sri Wahyuni, IR	Wanita	41	Wiraswasta	Cluster	10615206
+CUST-006	Rosalina Kurnia	Wanita	24	Professional	Cluster	5215541
+CUST-007	Cahyono, Agus	Pria	64	Wiraswasta	Sector	9837260
+CUST-008	Danang Santosa	Pria	52	Professional	Cluster	5223569
+CUST-009	Elisabeth Suryadinata	Wanita	29	Professional	Sector	5993218
+CUST-010	Mario Setiawan	Pria	33	Professional	Cluster	5257448
+CUST-011	Maria Suryawan	Wanita	50	Professional	Sector	5987367
+CUST-012	Erliana Widjaja	Wanita	49	Professional	Sector	5941914
+CUST-013	Cahaya Putri	Wanita	64	Wiraswasta	Cluster	9333168
+CUST-014	Mario Setiawan	Pria	60	Wiraswasta	Cluster	9471615
+CUST-015	Shirley Ratuwati	Wanita	20	Wiraswasta	Cluster	10365668
+CUST-016	Bambang Rudi	Pria	35	Professional	Cluster	5262521
+CUST-017	Yuni Sari	Wanita	32	Ibu Rumah Tangga	Cluster	5677762
+CUST-018	Nelly Halim	Wanita	63	Ibu Rumah Tangga	Cluster	5340690
+CUST-019	Mega Pranoto	Wanita	32	Wiraswasta	Cluster	10884508
+CUST-020	Irene Novianto	Wanita	16	Pelajar	Sector	2896845
+CUST-021	Lestari Fabianto	Wanita	38	Wiraswasta	Cluster	9222070
+CUST-022	Novita Purba	Wanita	52	Professional	Cluster	5298157
+CUST-023	Denny Amiruddin	Pria	34	Professional	Cluster	5239290
+CUST-024	Putri Ginting	Wanita	39	Wiraswasta	Cluster	10259572
+CUST-025	Julia Setiawan	Wanita	29	Wiraswasta	Sector	10721998
+CUST-026	Christine Winarto	Wanita	55	Professional	Cluster	5269392
+CUST-027	Grace Mulyati	Wanita	35	Wiraswasta	Cluster	9114159
+CUST-028	Adeline Huang	Wanita	40	Ibu Rumah Tangga	Cluster	6631680
+CUST-029	Tia Hartanti	Wanita	56	Professional	Cluster	5271845
+CUST-030	Rosita Saragih	Wanita	46	Ibu Rumah Tangga	Sector	5020976
+CUST-031	Eviana Handry	Wanita	19	Mahasiswa	Cluster	3042773
+CUST-032	Chintya Winarni	Wanita	47	Wiraswasta	Sector	10663179
+CUST-033	Cecilia Kusnadi	Wanita	19	Mahasiswa	Cluster	3047926
+CUST-034	Deasy Arisandi	Wanita	21	Wiraswasta	Sector	9759822
+CUST-035	Ida Ayu	Wanita	39	Professional	Sector	5962575
+CUST-036	Ni Made Suasti	Wanita	30	Wiraswasta	Cluster	9678994
+CUST-037	Felicia Tandiono	Wanita	25	Professional	Sector	5972787
+CUST-038	Agatha Salim	Wanita	46	Wiraswasta	Sector	10477127
+CUST-039	Gina Hidayat	Wanita	20	Professional	Cluster	5257775
+CUST-040	Irene Darmawan	Wanita	14	Pelajar	Sector	2861855
+CUST-041	Shinta Aritonang	Wanita	24	Ibu Rumah Tangga	Cluster	6820976
+CUST-042	Yuliana Wati	Wanita	26	Wiraswasta	Cluster	9880607
+CUST-043	Yenna Sumadi	Wanita	31	Professional	Cluster	5268410
+CUST-044	Anna	Wanita	18	Wiraswasta	Cluster	9339737
+CUST-045	Rismawati Juni	Wanita	22	Professional	Cluster	5211041
+CUST-046	Elfira Surya	Wanita	25	Wiraswasta	Sector	10099807
+CUST-047	Mira Kurnia	Wanita	55	Ibu Rumah Tangga	Cluster	6130724
+CUST-048	Maria Hutagalung	Wanita	45	Wiraswasta	Sector	10390732
+CUST-049	Josephine Wahab	Wanita	33	Ibu Rumah Tangga	Sector	4992585
+CUST-050	Lianna Nugraha	Wanita	55	Wiraswasta	Sector	10569316
