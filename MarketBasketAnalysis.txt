@@ -1,4 +1,4 @@
-Kode Transaksi	Item
+Kode Transaksi	Nama Barang
 #01	Teh Celup
 #01	Sirup
 #01	Pet Food
